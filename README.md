@@ -14,6 +14,7 @@ Project Member: [Zeki Yan](www.linkedin.com/in/zikaiyan), [Vincent Tian](https:/
 - [Optimization Model](#Optimization-Model)
 - [Results and Analysis](#results-and-analysis)
 - [Business Insights](#Business-Insights)
+- [References](#References)
 
 ## Introduction
 
@@ -70,11 +71,18 @@ Total cost reduction:
 
 The solution produced by our model surpasses the previously provided solution by the freight company.
 
-- We successfully reduced the total cost, including storage cost and transportation cost by **39.5%**.
+- We reduced the total cost, including storage and transportation costs, by **39.5%**.
 
 The outcomes obtained in our study align with the expectations derived from our preliminary exploratory analysis.
 
 - Many orders to pass through warehouse port 4.
-- Due to their lower daily cost per unit, many orders were allocated to Warehouse three and Warehouse 11.
+- Due to their lower daily cost per unit, many orders were allocated to Warehouse three and 11.
 - Few orders are allocated to warehouses 15, 16, or 18 due to their high daily cost.
 
+## References
+
+1. [Brunel University London. (2019). Supply Chain Logistics Problem Dataset. Brunel University London](https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679).
+2. [Dzalbs I, Kalganova T. (2020). Accelerating supply chains with Ant Colony Optimization across a range of hardware solutions. *ScienceDirect*](https://www.sciencedirect.com/science/article/pii/S0360835220303442?via%3Dihub).
+3. [Brechter, L. (n.d.). Supply Chain Data. Kaggle](https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data).
+4. Bertsimas, D. \& Tsitsiklis, J. (1997), Introduction to linear optimization , Athena Scientific .
+5. [Sankey Diagrams in Python](https://medium.com/@cbkwgl/sankey-diagrams-in-python-fc9673465ccb).
