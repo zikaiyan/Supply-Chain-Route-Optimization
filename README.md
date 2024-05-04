@@ -1,4 +1,4 @@
-# Supply-Chain-Route-Optimization
+# Supply Chain Route Optimization
 Final Project - 15.093/6.7201 Optimization Methods @MIT
 
 Project Member: [Zeki Yan](www.linkedin.com/in/zikaiyan), [Vincent Tian](https://www.linkedin.com/in/vincentian/)
