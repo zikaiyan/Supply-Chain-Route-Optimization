@@ -1,0 +1,166 @@
+source,target,value
+Orders,Customer 10,113
+Orders,Customer 11,2
+Orders,Customer 12,2
+Orders,Customer 13,16
+Orders,Customer 14,3
+Orders,Customer 15,35
+Orders,Customer 16,54
+Orders,Customer 17,10
+Orders,Customer 18,1
+Orders,Customer 19,12
+Orders,Customer 2,12
+Orders,Customer 20,31
+Orders,Customer 21,59
+Orders,Customer 22,74
+Orders,Customer 23,2
+Orders,Customer 24,10
+Orders,Customer 25,13
+Orders,Customer 26,84
+Orders,Customer 27,24
+Orders,Customer 28,1
+Orders,Customer 29,10
+Orders,Customer 3,3
+Orders,Customer 31,1
+Orders,Customer 32,78
+Orders,Customer 33,1
+Orders,Customer 34,92
+Orders,Customer 35,46
+Orders,Customer 36,23
+Orders,Customer 37,15
+Orders,Customer 38,7
+Orders,Customer 39,1
+Orders,Customer 4,13
+Orders,Customer 40,80
+Orders,Customer 41,2
+Orders,Customer 42,1
+Orders,Customer 43,8
+Orders,Customer 45,12
+Orders,Customer 7,1
+Orders,Customer 8,48
+Customer 10,Warehouse 11,42
+Customer 10,Warehouse 12,7
+Customer 10,Warehouse 2,39
+Customer 10,Warehouse 3,25
+Customer 11,Warehouse 11,2
+Customer 12,Warehouse 3,2
+Customer 13,Warehouse 3,16
+Customer 14,Warehouse 12,1
+Customer 14,Warehouse 13,2
+Customer 15,Warehouse 3,28
+Customer 15,Warehouse 5,3
+Customer 15,Warehouse 8,4
+Customer 16,Warehouse 11,2
+Customer 16,Warehouse 3,43
+Customer 16,Warehouse 4,8
+Customer 16,Warehouse 5,1
+Customer 17,Warehouse 11,2
+Customer 17,Warehouse 12,2
+Customer 17,Warehouse 2,4
+Customer 17,Warehouse 3,2
+Customer 18,Warehouse 11,1
+Customer 19,Warehouse 3,12
+Customer 2,Warehouse 3,11
+Customer 2,Warehouse 4,1
+Customer 20,Warehouse 3,30
+Customer 20,Warehouse 9,1
+Customer 21,Warehouse 11,1
+Customer 21,Warehouse 12,4
+Customer 21,Warehouse 13,6
+Customer 21,Warehouse 18,1
+Customer 21,Warehouse 2,5
+Customer 21,Warehouse 3,33
+Customer 21,Warehouse 4,8
+Customer 21,Warehouse 5,1
+Customer 22,Warehouse 11,11
+Customer 22,Warehouse 12,4
+Customer 22,Warehouse 3,57
+Customer 22,Warehouse 9,2
+Customer 23,Warehouse 12,2
+Customer 24,Warehouse 3,10
+Customer 25,Warehouse 3,2
+Customer 25,Warehouse 4,4
+Customer 25,Warehouse 5,7
+Customer 26,Warehouse 3,84
+Customer 27,Warehouse 11,1
+Customer 27,Warehouse 3,22
+Customer 27,Warehouse 9,1
+Customer 28,Warehouse 12,1
+Customer 29,Warehouse 11,2
+Customer 29,Warehouse 3,8
+Customer 3,Warehouse 3,3
+Customer 31,Warehouse 3,1
+Customer 32,Warehouse 11,3
+Customer 32,Warehouse 16,1
+Customer 32,Warehouse 3,55
+Customer 32,Warehouse 4,9
+Customer 32,Warehouse 5,10
+Customer 33,Warehouse 12,1
+Customer 34,Warehouse 11,9
+Customer 34,Warehouse 3,82
+Customer 34,Warehouse 5,1
+Customer 35,Warehouse 3,41
+Customer 35,Warehouse 4,3
+Customer 35,Warehouse 5,2
+Customer 36,Warehouse 3,22
+Customer 36,Warehouse 4,1
+Customer 37,Warehouse 16,15
+Customer 38,Warehouse 3,1
+Customer 38,Warehouse 4,4
+Customer 38,Warehouse 5,2
+Customer 39,Warehouse 4,1
+Customer 4,Warehouse 11,11
+Customer 4,Warehouse 3,2
+Customer 40,Warehouse 11,67
+Customer 40,Warehouse 12,9
+Customer 40,Warehouse 3,4
+Customer 41,Warehouse 3,2
+Customer 42,Warehouse 3,1
+Customer 43,Warehouse 3,6
+Customer 43,Warehouse 8,2
+Customer 45,Warehouse 3,12
+Customer 7,Warehouse 3,1
+Customer 8,Warehouse 10,22
+Customer 8,Warehouse 11,3
+Customer 8,Warehouse 12,2
+Customer 8,Warehouse 3,20
+Customer 8,Warehouse 9,1
+Warehouse 10,Port 2,22
+Warehouse 11,Port 4,157
+Warehouse 12,Port 4,33
+Warehouse 13,Port 4,8
+Warehouse 16,Port 9,16
+Warehouse 18,Port 11,1
+Warehouse 2,Port 3,48
+Warehouse 3,Port 4,638
+Warehouse 4,Port 5,39
+Warehouse 5,Port 6,27
+Warehouse 8,Port 4,6
+Warehouse 9,Port 4,5
+Port 11,Carrier 3,1
+Port 2,Carrier 1,7
+Port 2,Carrier 2,2
+Port 2,Carrier 3,3
+Port 2,Carrier 4,2
+Port 2,Carrier 5,8
+Port 3,Carrier 1,13
+Port 3,Carrier 5,18
+Port 3,Carrier 7,17
+Port 4,Carrier 1,782
+Port 4,Carrier 2,22
+Port 4,Carrier 4,42
+Port 4,Carrier 8,1
+Port 5,Carrier 2,8
+Port 5,Carrier 4,15
+Port 5,Carrier 5,16
+Port 6,Carrier 2,3
+Port 6,Carrier 4,6
+Port 6,Carrier 5,18
+Port 9,Carrier 5,16
+Carrier 1,Destination,802
+Carrier 2,Destination,35
+Carrier 3,Destination,4
+Carrier 4,Destination,65
+Carrier 5,Destination,76
+Carrier 7,Destination,17
+Carrier 8,Destination,1
