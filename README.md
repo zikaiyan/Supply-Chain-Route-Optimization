@@ -18,7 +18,7 @@ Project Member: [Zeki Yan](www.linkedin.com/in/zikaiyan), [Vincent Tian](https:/
 
 ## Introduction
 
-A global microchip producer supplied a dataset from their outbound logistics network. This dataset includes demand information for 1000 orders, which must be directed through their distribution system, consisting of 19 warehouses, 11 ports of departure, and a single port of arrival.
+Tatiana Kalganova and Ivars Dzalbs published a dataset of logistics networks. This dataset includes demand information for 1000 orders, which must be directed through their distribution system, consisting of 19 warehouses, 11 ports of departure, and a single port of arrival.
 
 The project is to design an optimal distribution network that incorporates warehouses, shipping routes, and courier services to create the most economical supply chain possible. The goal is to minimize the total costs, comprising warehouse operations and transportation expenses, while adhering to the constraints of demand, supply, and shipping logistics.
 
